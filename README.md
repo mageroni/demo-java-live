@@ -43,7 +43,7 @@ Click on the `Security` tab.
 
 #### Set up code scanning
 
-Click `Set up code scanning`.
+Click `Set up code scanning`
 
 <img src="images/01-repo-secruity-setup-code-scanning.png" width="70%"/>
 
