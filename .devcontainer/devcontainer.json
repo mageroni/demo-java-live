@@ -2,7 +2,13 @@
 		"vscode": {
 			"extensions": [
 				"GitHub.copilot",
-				"GitHub.copilot-chat"
+				"GitHub.copilot-chat",
+				"VisualStudioExptTeam.vscodeintellicode",
+				"redhat.java",
+				"vscjava.vscode-java-debug",
+				"vscjava.vscode-maven",
+				"vscjava.vscode-java-test",
+				"vscjava.vscode-java-dependency"
 			]
 		}
 	}
