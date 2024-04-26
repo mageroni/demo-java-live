@@ -30,4 +30,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: myJavaJar
-        path: '*.jar'
+        path: 'target/*.jar'
